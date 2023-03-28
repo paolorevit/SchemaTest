@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RevitAddIns>
+<AddIn Type="Command">
+      <Assembly>C:\Users\ingav\RiderProjects\SchemaUpgradeTest\SchemaUpgradeTest\bin\Debug\SchemaUpgradeTest.dll</Assembly>
+      <ClientId>4C6C18B9-8AFD-48F6-BE62-75495732A5EE</ClientId>
+      <FullClassName>SchemaUpgradeTest.ExternalCommand</FullClassName>
+      <Text>SchemaUpgradeTest</Text>
+      <VisibilityMode>AlwaysVisible</VisibilityMode>
+      <LanguageType>Unknown</LanguageType>
+      <VendorId>PAK</VendorId>
+  </AddIn>
+</RevitAddIns>
